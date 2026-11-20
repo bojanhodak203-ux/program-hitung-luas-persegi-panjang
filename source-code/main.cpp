@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 // ========================================
@@ -7,26 +6,27 @@ using namespace std;
 // IMPLEMENTASI ALGORITMA DALAM C++
 // ========================================
 
-// Nama Lengkap :
-// Kelas        :
-// Nomor Absen  :
-// Judul Program:
+// Nama Lengkap : DENA RESTU PRATAMA
+// Kelas        : XII-7
+// Nomor Absen  : 9
+// Judul Program:  
 
 int main() {
 
     // 1. DEKLARASI VARIABEL
-    // Deklarasikan variabel yang diperlukan.
+    float L,P,l;
 
 
     // 2. INPUT
-    // Tuliskan perintah untuk menerima data
-    // dari pengguna menggunakan cin atau getline.
+    cout <<"input nilai panjang:";
+    cin >>p;
+    cout <<"input nilai lebar"
+    cin >>l;
+    
 
 
     // 3. PROSES
-    // Tuliskan proses atau perhitungan program.
-    // Gunakan IF-ELSE jika diperlukan.
-    // Gunakan FOR atau WHILE jika diperlukan.
+    
 
 
     // 4. OUTPUT
